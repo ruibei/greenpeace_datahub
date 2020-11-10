@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T04:12:38.644Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="aTDvv4X0cUpteb2NSZ-l" version="13.8.9-1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T07:37:14.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="JqUGQlL6AJ8oqkWgp7KL" version="13.8.9-1" type="github">
   <diagram id="7MoNXVCcNUYNwAY7rI64" name="Page-1">
     <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,6 +161,15 @@
         </mxCell>
         <mxCell id="ThxzhjDylVs6adALKP7m-46" value="&lt;font style=&quot;font-size: 22px&quot;&gt;TAP Change flow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="50" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ThxzhjDylVs6adALKP7m-47" value="&lt;font style=&quot;font-size: 18px&quot;&gt;系统另需改动：&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1380" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ThxzhjDylVs6adALKP7m-48" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;1）&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;在原有的TAP Summary 报表的基础上，添加Initial Budget 和Adjustment Budget，&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;Adjustment Budget&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;字段添加链接，点击弹框显示所有的变更记录，变更记录中显示documentno字段并添加&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;超链接，点击可以打开流程页面，查看变更详细信息。添加的&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Initial Budget 和Adjustment Budget&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;两个字段显示的金额添加权限，TAPCP只能查看自己金额，Steer up level均可以见。&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1420" width="810" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ThxzhjDylVs6adALKP7m-49" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span&gt;2） &lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;现有流程中涉及到TAP信息的流程有两条，Project Approval流程和Budget Code Apply Or&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Adjust两条流程，涉及到的TAP信息中，&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;TAP budget amount改为total amount&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="78.75" y="1510" width="630" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
