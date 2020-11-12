@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T02:58:09.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="J0o8sY294aFPWVm_m1H_" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T02:59:02.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="jkBk7z5ZzmitzmqAhsZg" version="13.9.2" type="github">
   <diagram id="7MoNXVCcNUYNwAY7rI64" name="Page-1">
     <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,10 +18,10 @@
         <mxCell id="ThxzhjDylVs6adALKP7m-4" value="Steer approval" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="313.75" y="420" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ThxzhjDylVs6adALKP7m-5" value="FU confirm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ThxzhjDylVs6adALKP7m-5" value="FU confirm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="316.25" y="630" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ThxzhjDylVs6adALKP7m-7" value="Legal review" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ThxzhjDylVs6adALKP7m-7" value="Legal review" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="316.25" y="730" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ThxzhjDylVs6adALKP7m-9" value="Legal sign off" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -105,7 +105,7 @@
         <mxCell id="ThxzhjDylVs6adALKP7m-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ThxzhjDylVs6adALKP7m-36" target="ThxzhjDylVs6adALKP7m-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThxzhjDylVs6adALKP7m-36" value="CCR sign off" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="ThxzhjDylVs6adALKP7m-36" value="CCR sign off" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="313.75" y="1280" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ThxzhjDylVs6adALKP7m-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -121,7 +121,7 @@
         <mxCell id="ThxzhjDylVs6adALKP7m-42" value="TAP Archive" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="313.75" y="1480" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ThxzhjDylVs6adALKP7m-43" value="TAPCP submit scan agreement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="ThxzhjDylVs6adALKP7m-43" value="TAPCP submit scan agreement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="313.75" y="1380" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ThxzhjDylVs6adALKP7m-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
