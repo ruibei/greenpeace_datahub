@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T03:00:33.812Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="OY5kr9nUoiFeNs43tWQU" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T03:12:37.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="qmsyKo2ihD-h5RZOHVPN" version="13.9.2" type="github">
   <diagram id="7MoNXVCcNUYNwAY7rI64" name="Page-1">
     <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,13 +145,13 @@
           <mxGeometry x="300" y="50" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ThxzhjDylVs6adALKP7m-47" value="&lt;font style=&quot;font-size: 18px&quot;&gt;系统另需改动：&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1700" width="140" height="20" as="geometry" />
+          <mxGeometry x="80" y="1630" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ThxzhjDylVs6adALKP7m-48" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;1）&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;在原有的TAP Summary 报表的基础上，添加Initial Budget 和Adjustment Budget，&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;Adjustment Budget&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;字段添加链接，点击弹框显示所有的变更记录，变更记录中显示documentno字段并添加&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;超链接，点击可以打开流程页面，查看变更详细信息。添加的&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Initial Budget 和Adjustment Budget&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;两个字段显示的金额添加权限，TAPCP只能查看自己金额，Steer up level均可以见。&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1740" width="810" height="60" as="geometry" />
+          <mxGeometry x="30" y="1670" width="810" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ThxzhjDylVs6adALKP7m-49" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span&gt;2） &lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;现有流程中涉及到TAP信息的流程有两条，Project Approval流程和Budget Code Apply Or&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Adjust两条流程，涉及到的TAP信息中，&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;TAP budget amount改为total amount&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="78.75" y="1830" width="630" height="50" as="geometry" />
+        <mxCell id="ThxzhjDylVs6adALKP7m-49" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span&gt;2） &lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;现有流程中涉及到TAP信息的流程有两条，Project Approval流程和Budget Code Apply Or&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Adjust两条流程，涉及到的TAP信息中，&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;TAP budget amount改为total amount。&amp;nbsp; 页面上加remark字段。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="78.75" y="1760" width="630" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jpl5n9HmJh5xn0HnWr5r-2" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jpl5n9HmJh5xn0HnWr5r-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -205,6 +205,38 @@
         </mxCell>
         <mxCell id="jpl5n9HmJh5xn0HnWr5r-10" value="Changing budget is 0" style="rhombus;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="311.25" y="515" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jpl5n9HmJh5xn0HnWr5r-17" value="TAPCP submit request" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="326.25" y="1990" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jpl5n9HmJh5xn0HnWr5r-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jpl5n9HmJh5xn0HnWr5r-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="396.25" y="2290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpl5n9HmJh5xn0HnWr5r-20" value="TAP Archive" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="326.25" y="2180" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jpl5n9HmJh5xn0HnWr5r-44" value="&lt;font style=&quot;font-size: 22px&quot;&gt;TAP Closure flow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1910" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jpl5n9HmJh5xn0HnWr5r-49" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="396" y="2040" as="sourcePoint" />
+            <mxPoint x="396" y="2080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpl5n9HmJh5xn0HnWr5r-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jpl5n9HmJh5xn0HnWr5r-50" target="jpl5n9HmJh5xn0HnWr5r-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jpl5n9HmJh5xn0HnWr5r-50" value="FU confirm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326.25" y="2080" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jpl5n9HmJh5xn0HnWr5r-57" value="Email notifications to steer&amp;amp;CCR" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="305.75" y="2290" width="181" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jpl5n9HmJh5xn0HnWr5r-58" value="审计报告必填，其他选填" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2005" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
