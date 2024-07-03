@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T13:59:16.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="D7kC0Cddf6KL5X1jMh0v" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T14:29:18.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6jUHEOuu-6lWGb0J2VZ5" version="24.5.3" type="github">
   <diagram id="qOgjfe3gjl6jpZw3mqrN" name="Page-1">
     <mxGraphModel dx="964" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,8 +254,22 @@
         <mxCell id="UyrkVkERbtTrfQYG621X-1" value="Client fill the Form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="5070" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UyrkVkERbtTrfQYG621X-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UyrkVkERbtTrfQYG621X-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="5270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UyrkVkERbtTrfQYG621X-3" value="generate &lt;b&gt;Contact&lt;/b&gt; automatically in HubSpot" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="5160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UyrkVkERbtTrfQYG621X-5" value="create&amp;nbsp;&lt;b&gt;Company&lt;/b&gt;&lt;div&gt;&amp;nbsp;automatically in HubSpot&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="5270" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UyrkVkERbtTrfQYG621X-6" value="&lt;div&gt;To automatically fetch company information&amp;nbsp;&lt;/div&gt;&lt;div&gt;based on email suffix. （TBD for the public email)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="5280" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UyrkVkERbtTrfQYG621X-8" value="&lt;div&gt;Ticket&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="5370" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
